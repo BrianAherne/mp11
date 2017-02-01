@@ -1,0 +1,32 @@
+    1  cd C:\Users\t00160248\Desktop\exercise1
+    2  cd C:/Users/t00160248/Desktop/exercise1
+    3  git init
+    4  git remote add origin https://github.com/BrianAherne/mp11.git
+    5  git push -u origin master
+    6  git commit -m "Initial Commit"
+    7  git push -u origin master
+    8  cd C:\Users\t00160248\Desktop\exercise1
+    9  cd "C:\Users\t00160248\Desktop\exercise1"
+   10  git add .
+   11  git commit -m "Initial Commit"
+   12  git push -u origin master
+   13  git push -u origin master
+   14  git status
+   15  git add .
+   16  git push -u origin master
+   17  git commit -m "Added previous lab sessions to repository"
+   18  git push -u origin master
+   19  git commit -m "Example"
+   20  git add .
+   21  git commit -m "Example"
+   22  git push
+   23  git commit -m "Example2"
+   24  git status
+   25  git status
+   26  git commit -m "Edited lab4"
+   27  git add .
+   28  git commit -m "Added print hello"
+   29  git status
+   30  git push
+   31  history
+   32  history > mp11_hist
